@@ -204,4 +204,4 @@ This repository serves as the official landing page for Heroes of Might & Magic:
 **Get the most recent version of Heroes of Might & Magic: Olden Era today!**
 
 ---
-**Last updated:** 2026-11-10 19:12:24 UTC
+**Last updated:** 2026-11-11 00:19:18 UTC
